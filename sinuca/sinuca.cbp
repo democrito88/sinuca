@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sinuca" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug Win32">
+				<Option output="sinuca" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Debug Win32" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-O0" />
+					<Add directory="..\include" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="..\include" />
+				</ResourceCompiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="SDL" />
+					<Add library="SDLmain" />
+					<Add library="SDL_image" />
+					<Add library="SDL_ttf" />
+					<Add directory="..\lib" />
+				</Linker>
+			</Target>
+			<Target title="Release Win32">
+				<Option output="sinuca" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Release Win32" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Unit filename="Jogo.cpp" />
+		<Unit filename="Jogo.h" />
+		<Unit filename="Main.cpp" />
+		<Unit filename="mesa\Bola.cpp" />
+		<Unit filename="mesa\Bola.h" />
+		<Unit filename="mesa\Item.cpp" />
+		<Unit filename="mesa\Item.h" />
+		<Unit filename="mesa\Jogador.cpp" />
+		<Unit filename="mesa\Jogador.h" />
+		<Unit filename="mesa\MesaDeJogo.cpp" />
+		<Unit filename="mesa\MesaDeJogo.h" />
+		<Unit filename="telas\GerenciadorTelas.cpp" />
+		<Unit filename="telas\GerenciadorTelas.h" />
+		<Unit filename="telas\Tela.cpp" />
+		<Unit filename="telas\Tela.h" />
+		<Unit filename="telas\TelaJogo.cpp" />
+		<Unit filename="telas\TelaJogo.h" />
+		<Unit filename="telas\TelaMenu.cpp" />
+		<Unit filename="telas\TelaMenu.h" />
+		<Unit filename="tempo\Tempo.cpp" />
+		<Unit filename="tempo\Tempo.h" />
+		<Unit filename="util\Util.cpp" />
+		<Unit filename="util\Util.h" />
+		<Unit filename="util\Vetor.cpp" />
+		<Unit filename="util\Vetor.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

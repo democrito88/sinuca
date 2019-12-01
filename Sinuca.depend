@@ -1,0 +1,1706 @@
+# depslib dependency file v1.0
+1246564111 source:c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\jogo.cpp
+	"Jogo.h"
+
+1244855602 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\jogo.h
+	"telas/GerenciadorTelas.h"
+
+1245512070 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\telas\gerenciadortelas.h
+	"TelaJogo.h"
+	"TelaMenu.h"
+
+1245888508 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\telas\telajogo.h
+	"Tela.h"
+	"../mesa/MesaDeJogo.h"
+
+1245511888 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\telas\tela.h
+	"../util/Util.h"
+
+1246562370 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\util\util.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<string>
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_platform.h
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_config_symbian.h
+	"SDL_platform.h"
+	<stdarg.h>
+	<stddef.h>
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_config_os2.h
+	"SDL_platform.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\begin_code.h
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\close_code.h
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_keysym.h
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1227487790 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1185024604 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1246562886 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\mesa\mesadejogo.h
+	<vector>
+	<sstream>
+	"Bola.h"
+	"Jogador.h"
+
+1246562716 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\mesa\bola.h
+	"../util/Util.h"
+	"../util/Vetor.h"
+
+1245870154 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\util\vetor.h
+	<cmath>
+
+1246564122 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\mesa\jogador.h
+	"../util/Util.h"
+	"../util/Vetor.h"
+
+1245591974 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\telas\telamenu.h
+	"TelaJogo.h"
+
+1245995816 source:c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\main.cpp
+	"Jogo.h"
+	"tempo/Tempo.h"
+
+1245513792 c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\tempo\tempo.h
+	<SDL/SDL.h>
+
+1246562743 source:c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\mesa\bola.cpp
+	"Bola.h"
+
+1246564131 source:c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\mesa\jogador.cpp
+	"Jogador.h"
+
+1246564385 source:c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\mesa\mesadejogo.cpp
+	"MesaDeJogo.h"
+
+1245511818 source:c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\telas\gerenciadortelas.cpp
+	"GerenciadorTelas.h"
+	"TelaMenu.h"
+	"TelaJogo.h"
+
+1244846884 source:c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\telas\tela.cpp
+	"Tela.h"
+
+1246563464 source:c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\telas\telajogo.cpp
+	"TelaJogo.h"
+	"GerenciadorTelas.h"
+
+1245592036 source:c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\telas\telamenu.cpp
+	"TelaMenu.h"
+	"GerenciadorTelas.h"
+
+1245514152 source:c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\tempo\tempo.cpp
+	"Tempo.h"
+
+1246562358 source:c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\util\util.cpp
+	"Util.h"
+
+1245881184 source:c:\documents and settings\aluno.l1c01.001\meus documentos\henrique\sinuca\sinuca\util\vetor.cpp
+	"Vetor.h"
+
+1248406132 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\jogo.cpp
+	"Jogo.h"
+
+1248198694 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\jogo.h
+	"telas/GerenciadorTelas.h"
+
+1248404395 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\gerenciadortelas.h
+	"TelaJogo.h"
+	"TelaMenu.h"
+	"TelaOpcoesJogadores.h"
+
+1248198887 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telajogo.h
+	"Tela.h"
+	"../mesa/MesaDeJogo.h"
+
+1248220492 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\tela.h
+	"../util/Util.h"
+
+1248222546 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\util\util.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"SDL_rotozoom.h"
+	"ControleSom.h"
+	<string>
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_platform.h
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config_symbian.h
+	"SDL_platform.h"
+	<stdarg.h>
+	<stddef.h>
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config_os2.h
+	"SDL_platform.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\begin_code.h
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\close_code.h
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_keysym.h
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1227484190 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1185024604 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1248405265 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\mesadejogo.h
+	<vector>
+	<sstream>
+	"Bola.h"
+	"Jogador.h"
+	"Item.h"
+
+1248411111 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\bola.h
+	"../util/Util.h"
+	"../util/Vetor.h"
+
+1247973348 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\util\vetor.h
+	<cmath>
+
+1248729621 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\jogador.h
+	"../util/Util.h"
+	"../util/Vetor.h"
+	"Item.h"
+
+1248211317 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telamenu.h
+	"TelaJogo.h"
+
+1248407192 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\main.cpp
+	"Jogo.h"
+	"tempo/Tempo.h"
+
+1245513792 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\tempo\tempo.h
+	<SDL/SDL.h>
+
+1248498370 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\bola.cpp
+	"Bola.h"
+
+1248729297 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\jogador.cpp
+	"Jogador.h"
+
+1248567125 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\mesadejogo.cpp
+	"MesaDeJogo.h"
+	<math.h>
+	<time.h>
+	"../telas/GerenciadorTelas.h"
+
+1248404445 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\gerenciadortelas.cpp
+	"GerenciadorTelas.h"
+	"TelaMenu.h"
+	"TelaJogo.h"
+
+1247693041 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\tela.cpp
+	"Tela.h"
+
+1248197770 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telajogo.cpp
+	"TelaJogo.h"
+	"GerenciadorTelas.h"
+
+1248220226 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telamenu.cpp
+	"TelaMenu.h"
+	"GerenciadorTelas.h"
+
+1245514152 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\tempo\tempo.cpp
+	"Tempo.h"
+
+1247680889 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\util\util.cpp
+	"Util.h"
+
+1247976319 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\util\vetor.cpp
+	"Vetor.h"
+
+1246588420 source:c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\jogo.cpp
+	"Jogo.h"
+
+1244855602 c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\jogo.h
+	"telas/GerenciadorTelas.h"
+
+1245512070 c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\telas\gerenciadortelas.h
+	"TelaJogo.h"
+	"TelaMenu.h"
+
+1245888508 c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\telas\telajogo.h
+	"Tela.h"
+	"../mesa/MesaDeJogo.h"
+
+1245511888 c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\telas\tela.h
+	"../util/Util.h"
+
+1246562370 c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\util\util.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<string>
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_platform.h
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_config_symbian.h
+	"SDL_platform.h"
+	<stdarg.h>
+	<stddef.h>
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_config_os2.h
+	"SDL_platform.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\begin_code.h
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\close_code.h
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_keysym.h
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1227484190 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1185024604 c:\documents and settings\bio\desktop\sinuca\sinuca\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1246580434 c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\mesa\mesadejogo.h
+	<vector>
+	<sstream>
+	"Bola.h"
+	"Jogador.h"
+
+1246562716 c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\mesa\bola.h
+	"../util/Util.h"
+	"../util/Vetor.h"
+
+1245870154 c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\util\vetor.h
+	<cmath>
+
+1246579919 c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\mesa\jogador.h
+	"../util/Util.h"
+	"../util/Vetor.h"
+
+1245591974 c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\telas\telamenu.h
+	"TelaJogo.h"
+
+1245995816 source:c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\main.cpp
+	"Jogo.h"
+	"tempo/Tempo.h"
+
+1245513792 c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\tempo\tempo.h
+	<SDL/SDL.h>
+
+1246585906 source:c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\mesa\bola.cpp
+	"Bola.h"
+
+1246592517 source:c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\mesa\jogador.cpp
+	"Jogador.h"
+
+1246592937 source:c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\mesa\mesadejogo.cpp
+	"MesaDeJogo.h"
+	<math.h>
+
+1245511818 source:c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\telas\gerenciadortelas.cpp
+	"GerenciadorTelas.h"
+	"TelaMenu.h"
+	"TelaJogo.h"
+
+1244846884 source:c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\telas\tela.cpp
+	"Tela.h"
+
+1246563464 source:c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\telas\telajogo.cpp
+	"TelaJogo.h"
+	"GerenciadorTelas.h"
+
+1245592036 source:c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\telas\telamenu.cpp
+	"TelaMenu.h"
+	"GerenciadorTelas.h"
+
+1245514152 source:c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\tempo\tempo.cpp
+	"Tempo.h"
+
+1246562358 source:c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\util\util.cpp
+	"Util.h"
+
+1245881184 source:c:\documents and settings\bio\desktop\sinuca\sinuca\sinuca\util\vetor.cpp
+	"Vetor.h"
+
+1246998658 source:c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\jogo.cpp
+	"Jogo.h"
+
+1244855602 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\jogo.h
+	"telas/GerenciadorTelas.h"
+
+1245512070 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\telas\gerenciadortelas.h
+	"TelaJogo.h"
+	"TelaMenu.h"
+
+1245888508 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\telas\telajogo.h
+	"Tela.h"
+	"../mesa/MesaDeJogo.h"
+
+1245511888 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\telas\tela.h
+	"../util/Util.h"
+
+1246562370 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\util\util.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<string>
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_platform.h
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_config_symbian.h
+	"SDL_platform.h"
+	<stdarg.h>
+	<stddef.h>
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_config_os2.h
+	"SDL_platform.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\begin_code.h
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\close_code.h
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_keysym.h
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199066738 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1227487790 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1185024604 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247158342 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\mesa\mesadejogo.h
+	<vector>
+	<sstream>
+	"Bola.h"
+	"Jogador.h"
+	"Item.h"
+
+1247162555 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\mesa\bola.h
+	"../util/Util.h"
+	"../util/Vetor.h"
+
+1245870154 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\util\vetor.h
+	<cmath>
+
+1246579919 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\mesa\jogador.h
+	"../util/Util.h"
+	"../util/Vetor.h"
+
+1245591974 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\telas\telamenu.h
+	"TelaJogo.h"
+
+1245995816 source:c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\main.cpp
+	"Jogo.h"
+	"tempo/Tempo.h"
+
+1245513792 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\tempo\tempo.h
+	<SDL/SDL.h>
+
+1247162667 source:c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\mesa\bola.cpp
+	"Bola.h"
+
+1246731137 source:c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\mesa\jogador.cpp
+	"Jogador.h"
+
+1247167779 source:c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\mesa\mesadejogo.cpp
+	"MesaDeJogo.h"
+	<math.h>
+	<time.h>
+
+1245511818 source:c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\telas\gerenciadortelas.cpp
+	"GerenciadorTelas.h"
+	"TelaMenu.h"
+	"TelaJogo.h"
+
+1244846884 source:c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\telas\tela.cpp
+	"Tela.h"
+
+1246563464 source:c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\telas\telajogo.cpp
+	"TelaJogo.h"
+	"GerenciadorTelas.h"
+
+1245592036 source:c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\telas\telamenu.cpp
+	"TelaMenu.h"
+	"GerenciadorTelas.h"
+
+1245514152 source:c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\tempo\tempo.cpp
+	"Tempo.h"
+
+1246562358 source:c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\util\util.cpp
+	"Util.h"
+
+1245881184 source:c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\util\vetor.cpp
+	"Vetor.h"
+
+1247158217 c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\mesa\item.h
+	"Bola.h"
+	<vector>
+
+1247159525 source:c:\documents and settings\aluno.l2c28.000\desktop\projeto\projeto\sinuca\mesa\item.cpp
+	"Item.h"
+	"MesaDeJogo.h"
+
+1248404999 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\item.h
+	"Bola.h"
+	<vector>
+
+1248567125 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\item.cpp
+	"Item.h"
+	"MesaDeJogo.h"
+	<time.h>
+
+1249103440 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\main.cpp
+	"Jogo.h"
+	"tempo/Tempo.h"
+
+1248198694 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\jogo.h
+	"telas/GerenciadorTelas.h"
+
+1248898764 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\gerenciadortelas.h
+	"TelaJogo.h"
+	"TelaMenu.h"
+	"TelaOpcoesJogadores.h"
+	"TelaTutorial.h"
+	"TelaFim.h"
+	"TelaCreditos.h"
+
+1248198887 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telajogo.h
+	"Tela.h"
+	"../mesa/MesaDeJogo.h"
+
+1248220492 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\tela.h
+	"../util/Util.h"
+
+1248222546 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\util\util.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"SDL_rotozoom.h"
+	"ControleSom.h"
+	<string>
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_platform.h
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config_symbian.h
+	"SDL_platform.h"
+	<stdarg.h>
+	<stddef.h>
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config_os2.h
+	"SDL_platform.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\begin_code.h
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\close_code.h
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_keysym.h
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1227484190 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1185024604 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1249079499 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\mesadejogo.h
+	<vector>
+	<sstream>
+	"Bola.h"
+	"Jogador.h"
+	"Item.h"
+
+1248966025 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\bola.h
+	"../util/Util.h"
+	"../util/Vetor.h"
+
+1248930989 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\util\vetor.h
+	<cmath>
+
+1248729621 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\jogador.h
+	"../util/Util.h"
+	"../util/Vetor.h"
+	"Item.h"
+
+1249083839 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\item.h
+	"Bola.h"
+	<vector>
+
+1249089977 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telamenu.h
+	"TelaJogo.h"
+
+1245513792 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\tempo\tempo.h
+	<SDL/SDL.h>
+
+1248898954 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\gerenciadortelas.cpp
+	"GerenciadorTelas.h"
+
+1248919293 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telamenu.cpp
+	"TelaMenu.h"
+	"GerenciadorTelas.h"
+
+1245514152 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\tempo\tempo.cpp
+	"Tempo.h"
+
+1247680889 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\util\util.cpp
+	"Util.h"
+
+1248930971 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\util\vetor.cpp
+	"Vetor.h"
+
+1249083849 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\item.cpp
+	"Item.h"
+	"MesaDeJogo.h"
+	<time.h>
+
+1249080771 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\jogador.cpp
+	"Jogador.h"
+
+1247693041 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\tela.cpp
+	"Tela.h"
+
+1248967391 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telajogo.cpp
+	"TelaJogo.h"
+	"GerenciadorTelas.h"
+
+1249079551 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\jogo.cpp
+	"Jogo.h"
+
+1248966038 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\bola.cpp
+	"Bola.h"
+
+1249083628 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\mesa\mesadejogo.cpp
+	"MesaDeJogo.h"
+	<math.h>
+	<time.h>
+	"../telas/GerenciadorTelas.h"
+
+1248072157 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\util\sdl_rotozoom.h
+	<math.h>
+	<SDL/SDL.h>
+
+1130593200 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\util\sdl_gfxprimitives.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"SDL_gfxPrimitives.h"
+	"SDL_gfxPrimitives_font.h"
+
+1248072211 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\util\sdl_gfxprimitives.h
+	<math.h>
+	<SDL/SDL.h>
+
+1119890626 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\util\sdl_gfxprimitives_font.h
+
+1130591028 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\util\sdl_rotozoom.c
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"SDL_rotozoom.h"
+
+1248406216 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\util\controlesom.h
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_thread.h>
+
+1184988080 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_types.h
+	"SDL_stdinc.h"
+
+1248213261 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telaopcoesjogadores.h
+	"Tela.h"
+	<vector>
+
+1248406237 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\util\controlesom.cpp
+	"ControleSom.h"
+
+1248072157 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\util\sdl_rotozoom.h
+	<math.h>
+	<SDL/SDL.h>
+
+1248406216 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\util\controlesom.h
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_thread.h>
+
+1184988080 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199063138 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\include\sdl\sdl_types.h
+	"SDL_stdinc.h"
+
+1248213261 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telaopcoesjogadores.h
+	"Tela.h"
+	<vector>
+
+1248410286 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telaopcoesjogadores.cpp
+	"TelaOpcoesJogadores.h"
+	"GerenciadorTelas.h"
+
+1248406237 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\util\controlesom.cpp
+	"ControleSom.h"
+
+1130593200 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\util\sdl_gfxprimitives.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"SDL_gfxPrimitives.h"
+	"SDL_gfxPrimitives_font.h"
+
+1248072211 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\util\sdl_gfxprimitives.h
+	<math.h>
+	<SDL/SDL.h>
+
+1119890626 c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\util\sdl_gfxprimitives_font.h
+
+1130591028 source:c:\documents and settings\bio\meus documentos\my dropbox\sinuca\projeto\sinuca\util\sdl_rotozoom.c
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"SDL_rotozoom.h"
+
+1248814100 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telatutorial.h
+	"Tela.h"
+
+1248815465 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telafim.h
+	"Tela.h"
+
+1248898164 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telafim.cpp
+	"TelaFim.h"
+	"GerenciadorTelas.h"
+
+1248813909 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telaopcoesjogadores.cpp
+	"TelaOpcoesJogadores.h"
+	"GerenciadorTelas.h"
+
+1248814119 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telatutorial.cpp
+	"TelaTutorial.h"
+	"GerenciadorTelas.h"
+
+1248898283 c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telacreditos.h
+	"Tela.h"
+
+1248898449 source:c:\documents and settings\henrique\meus documentos\my dropbox\sinuca\projeto\sinuca\telas\telacreditos.cpp
+	"TelaCreditos.h"
+	"GerenciadorTelas.h"
+

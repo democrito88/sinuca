@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="sinuca\Jogo.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="1097" topLine="0" />
+	</File>
+	<File name="sinuca\Jogo.h" open="0" top="0" tabpos="0">
+		<Cursor position="370" topLine="0" />
+	</File>
+	<File name="sinuca\Main.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="805" topLine="2" />
+	</File>
+	<File name="sinuca\mesa\Bola.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1146" topLine="60" />
+	</File>
+	<File name="sinuca\mesa\Bola.h" open="0" top="0" tabpos="2">
+		<Cursor position="1021" topLine="28" />
+	</File>
+	<File name="sinuca\mesa\Item.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="2136" topLine="56" />
+	</File>
+	<File name="sinuca\mesa\Item.h" open="0" top="0" tabpos="2">
+		<Cursor position="537" topLine="6" />
+	</File>
+	<File name="sinuca\mesa\Jogador.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="46" topLine="2" />
+	</File>
+	<File name="sinuca\mesa\Jogador.h" open="0" top="0" tabpos="5">
+		<Cursor position="426" topLine="37" />
+	</File>
+	<File name="sinuca\mesa\MesaDeJogo.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="14992" topLine="565" />
+	</File>
+	<File name="sinuca\mesa\MesaDeJogo.h" open="0" top="0" tabpos="3">
+		<Cursor position="880" topLine="15" />
+	</File>
+	<File name="sinuca\telas\GerenciadorTelas.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="416" topLine="30" />
+	</File>
+	<File name="sinuca\telas\GerenciadorTelas.h" open="0" top="0" tabpos="3">
+		<Cursor position="588" topLine="0" />
+	</File>
+	<File name="sinuca\telas\Tela.h" open="0" top="0" tabpos="0">
+		<Cursor position="247" topLine="0" />
+	</File>
+	<File name="sinuca\telas\TelaCreditos.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="415" topLine="13" />
+	</File>
+	<File name="sinuca\telas\TelaFim.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="323" topLine="30" />
+	</File>
+	<File name="sinuca\telas\TelaJogo.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1358" topLine="6" />
+	</File>
+	<File name="sinuca\telas\TelaJogo.h" open="0" top="0" tabpos="4">
+		<Cursor position="446" topLine="0" />
+	</File>
+	<File name="sinuca\telas\TelaMenu.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1012" topLine="38" />
+	</File>
+	<File name="sinuca\telas\TelaMenu.h" open="1" top="0" tabpos="1">
+		<Cursor position="379" topLine="0" />
+	</File>
+	<File name="sinuca\telas\TelaOpcoesJogadores.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="441" topLine="58" />
+	</File>
+	<File name="sinuca\telas\TelaTutorial.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="18" />
+	</File>
+	<File name="sinuca\tempo\Tempo.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sinuca\util\Util.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="318" topLine="0" />
+	</File>
+	<File name="sinuca\util\Util.h" open="0" top="0" tabpos="0">
+		<Cursor position="187" topLine="0" />
+	</File>
+	<File name="sinuca\util\Vetor.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="258" topLine="4" />
+	</File>
+	<File name="sinuca\util\Vetor.h" open="0" top="0" tabpos="0">
+		<Cursor position="253" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

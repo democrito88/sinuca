@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Sinuca" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="debug\Sinukoid" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="debug" />
+				<Option object_output="obj\Debug\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32 -lSDLmain -lSDL" />
+					<Add directory="lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="release\Sinukoid" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="release" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lmingw32 -lSDLmain -lSDL" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="include" />
+		</Compiler>
+		<Linker>
+			<Add library="SDL" />
+			<Add library="SDLmain" />
+			<Add library="SDL_image" />
+			<Add library="SDL_ttf" />
+			<Add library="SDL_mixer" />
+			<Add directory="lib" />
+		</Linker>
+		<Unit filename="sinuca\Jogo.cpp" />
+		<Unit filename="sinuca\Jogo.h" />
+		<Unit filename="sinuca\Main.cpp" />
+		<Unit filename="sinuca\mesa\Bola.cpp" />
+		<Unit filename="sinuca\mesa\Bola.h" />
+		<Unit filename="sinuca\mesa\Item.cpp" />
+		<Unit filename="sinuca\mesa\Item.h" />
+		<Unit filename="sinuca\mesa\Jogador.cpp" />
+		<Unit filename="sinuca\mesa\Jogador.h" />
+		<Unit filename="sinuca\mesa\MesaDeJogo.cpp" />
+		<Unit filename="sinuca\mesa\MesaDeJogo.h" />
+		<Unit filename="sinuca\telas\GerenciadorTelas.cpp" />
+		<Unit filename="sinuca\telas\GerenciadorTelas.h" />
+		<Unit filename="sinuca\telas\Tela.cpp" />
+		<Unit filename="sinuca\telas\Tela.h" />
+		<Unit filename="sinuca\telas\TelaCreditos.cpp" />
+		<Unit filename="sinuca\telas\TelaCreditos.h" />
+		<Unit filename="sinuca\telas\TelaFim.cpp" />
+		<Unit filename="sinuca\telas\TelaFim.h" />
+		<Unit filename="sinuca\telas\TelaJogo.cpp" />
+		<Unit filename="sinuca\telas\TelaJogo.h" />
+		<Unit filename="sinuca\telas\TelaMenu.cpp" />
+		<Unit filename="sinuca\telas\TelaMenu.h" />
+		<Unit filename="sinuca\telas\TelaOpcoesJogadores.cpp" />
+		<Unit filename="sinuca\telas\TelaOpcoesJogadores.h" />
+		<Unit filename="sinuca\telas\TelaTutorial.cpp" />
+		<Unit filename="sinuca\telas\TelaTutorial.h" />
+		<Unit filename="sinuca\tempo\Tempo.cpp" />
+		<Unit filename="sinuca\tempo\Tempo.h" />
+		<Unit filename="sinuca\util\ControleSom.cpp" />
+		<Unit filename="sinuca\util\ControleSom.h" />
+		<Unit filename="sinuca\util\SDL_gfxPrimitives.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sinuca\util\SDL_gfxPrimitives.h" />
+		<Unit filename="sinuca\util\SDL_gfxPrimitives_font.h" />
+		<Unit filename="sinuca\util\SDL_rotozoom.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sinuca\util\SDL_rotozoom.h" />
+		<Unit filename="sinuca\util\Util.cpp" />
+		<Unit filename="sinuca\util\Util.h" />
+		<Unit filename="sinuca\util\Vetor.cpp" />
+		<Unit filename="sinuca\util\Vetor.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug Win32" />
+	<File name="Main.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="1525" topLine="29" />
+	</File>
+	<File name="mesa\Bola.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1031" topLine="32" />
+	</File>
+	<File name="mesa\Bola.h" open="0" top="0" tabpos="0">
+		<Cursor position="568" topLine="0" />
+	</File>
+	<File name="mesa\Item.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1334" topLine="15" />
+	</File>
+	<File name="mesa\MesaDeJogo.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="19536" topLine="610" />
+	</File>
+	<File name="mesa\MesaDeJogo.h" open="0" top="0" tabpos="2">
+		<Cursor position="512" topLine="15" />
+	</File>
+	<File name="telas\GerenciadorTelas.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="636" topLine="0" />
+	</File>
+	<File name="telas\GerenciadorTelas.h" open="0" top="0" tabpos="0">
+		<Cursor position="580" topLine="0" />
+	</File>
+	<File name="telas\Tela.h" open="0" top="0" tabpos="0">
+		<Cursor position="494" topLine="0" />
+	</File>
+	<File name="telas\TelaJogo.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="446" topLine="0" />
+	</File>
+	<File name="telas\TelaJogo.h" open="0" top="0" tabpos="0">
+		<Cursor position="349" topLine="0" />
+	</File>
+	<File name="telas\TelaMenu.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="2210" topLine="70" />
+	</File>
+	<File name="telas\TelaMenu.h" open="0" top="0" tabpos="0">
+		<Cursor position="586" topLine="0" />
+	</File>
+	<File name="tempo\Tempo.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="853" topLine="18" />
+	</File>
+	<File name="util\Util.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="805" topLine="18" />
+	</File>
+	<File name="util\Vetor.h" open="0" top="0" tabpos="0">
+		<Cursor position="211" topLine="2" />
+	</File>
+</CodeBlocks_layout_file>
