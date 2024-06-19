@@ -2,7 +2,9 @@
 
 ![GitHub](https://img.shields.io/badge/v1.0.0-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows%20exclusive-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%20exclusive-0078D6?style=for-the-badge&logo=windows&logoColor=white) :brazil:
+
+![](release/recursos/imagens/tutorial.PNG)
 
 A simple pool game made in C++. This is a engineering graduation student project made with the purpose to learn about coding, game developing and OOP. 🎱
 
