@@ -6,7 +6,7 @@
 
 ![](release/recursos/imagens/tutorial.PNG)
 
-A simple pool game made in C++. This is a engineering graduation student project made with the purpose to learn about coding, game developing and OOP. 🎱
+A simple pooling game made in C++. This is a engineering graduation student project made with the purpose to learn about coding, game developing and OOP. 🎱
 
 ### Usage
 Simply execute the **debug/Sinukoid.exe** file
